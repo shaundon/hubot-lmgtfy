@@ -3,7 +3,11 @@ hubot-lmgtfy
 
 Allows Hubot to create LMGTFY queries.
 
-## Example Usage
+## Installation
+
+Pop `lmgtfy.coffee` into your Hubot's `scripts` folder.
+
+## Usage
 
 `hubot lmgtfy <terms>`.
 
